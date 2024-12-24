@@ -18,7 +18,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **NEW Fetching**
+- 🔭 I’m currently working on **NEWS Fetching**
 
 - 🌱 I’m currently learning **Android FrameWorks**
 
